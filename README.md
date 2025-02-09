@@ -121,7 +121,7 @@
 
 ## 📆 Day 7 (Sunday, Feb 16) – Final Review & Exam Strategy  
 ### 🎯 Goals  
-- **Quick Review** of **cheat sheets** (IAM roles, Terraform, Kubernetes commands)  
+- **Quick Review** of **[cheat sheets](https://github.com/bashizip/pcde-exam-prep/blob/5ff1c14881e7f394559963fea402723b649a4832/Google%20Cloud%20DevOps%20Engineer%20Exam%20prep%20sheet.pdf)** (IAM roles, Terraform, Kubernetes commands)  
 - Go through **SRE principles one last time**  
 - Memorize **key CLI commands** for troubleshooting  
 - Skim through **official Google DevOps documentation**  
