@@ -18,9 +18,11 @@
 ✅ Deploy **Terraform scripts** to provision a multi-environment setup  
 ✅ Explore **Cloud Workstations** and configure a secure dev environment  
 
-### 📖 Resources  
+### 📖 Official Google Cloud Documentation  
 - [Google IAM Best Practices](https://cloud.google.com/iam/docs/best-practices)  
+- [Google Cloud Resource Hierarchy](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy)  
 - [Terraform on Google Cloud](https://cloud.google.com/docs/terraform)  
+- [Managing Multi-Environment Deployments](https://cloud.google.com/blog/topics/developers-practitioners/managing-multiple-environments-google-cloud)  
 
 ---
 
@@ -38,10 +40,12 @@
 ✅ Implement **Binary Authorization** for secure container deployment  
 ✅ Use **Cloud KMS and Secret Manager** to manage sensitive credentials  
 
-### 📖 Resources  
-- [Cloud Build Docs](https://cloud.google.com/build/docs)  
-- [Binary Authorization Overview](https://cloud.google.com/binary-authorization)  
-- [Secret Manager Best Practices](https://cloud.google.com/secret-manager/docs/best-practices)  
+### 📖 Official Google Cloud Documentation  
+- [Cloud Build Overview](https://cloud.google.com/build/docs/overview)  
+- [Cloud Deploy Overview](https://cloud.google.com/deploy/docs/overview)  
+- [Artifact Registry](https://cloud.google.com/artifact-registry/docs/overview)  
+- [Binary Authorization](https://cloud.google.com/binary-authorization)  
+- [Secret Manager](https://cloud.google.com/secret-manager/docs)  
 
 ---
 
@@ -59,10 +63,11 @@
 ✅ Implement **GKE Autoscaling** (HPA, Cluster Autoscaler)  
 ✅ Configure a **multi-region deployment** with **traffic redirection**  
 
-### 📖 Resources  
+### 📖 Official Google Cloud Documentation  
 - [Google SRE Book](https://landing.google.com/sre/sre-book/toc/)  
 - [Error Budget Best Practices](https://cloud.google.com/stackdriver/docs/solutions/slo-monitoring/alerting-on-budget-burn-rate)  
 - [GKE Autoscaling Guide](https://cloud.google.com/kubernetes-engine/docs/concepts/autoscaling)  
+- [Incident Management](https://cloud.google.com/architecture/incident-response)  
 
 ---
 
@@ -80,9 +85,10 @@
 ✅ Set up **SLI-based alerts & Prometheus monitoring**  
 ✅ Design a **dashboard with Google Cloud Monitoring**  
 
-### 📖 Resources  
+### 📖 Official Google Cloud Documentation  
 - [Cloud Logging Overview](https://cloud.google.com/logging/docs)  
 - [Google Managed Prometheus](https://cloud.google.com/stackdriver/docs/managed-prometheus)  
+- [Cloud Monitoring Dashboards](https://cloud.google.com/monitoring/docs/dashboards)  
 
 ---
 
@@ -98,7 +104,7 @@
 ✅ Analyze **latency issues** with **Cloud Profiler**  
 ✅ Optimize **GCP costs** using **Committed-Use Discounts & Recommenders**  
 
-### 📖 Resources  
+### 📖 Official Google Cloud Documentation  
 - [Google Cloud Debugging Tools](https://cloud.google.com/debugger/docs)  
 - [Cost Optimization Best Practices](https://cloud.google.com/docs/cost-management)  
 
@@ -114,14 +120,14 @@
 ✅ [Google’s Sample Questions](https://cloud.google.com/certification/guides/cloud-devops-engineer)  
 ✅ [Whizlabs Google Cloud DevOps Mock Tests](https://www.whizlabs.com)  
 
-### 📖 Resources  
+### 📖 Official Google Cloud Documentation  
 - [Google’s Case Studies](https://cloud.google.com/solutions/case-studies)  
 
 ---
 
 ## 📆 Day 7 (Sunday, Feb 16) – Final Review & Exam Strategy  
 ### 🎯 Goals  
-- **Quick Review** of **[cheat sheets](https://github.com/bashizip/pcde-exam-prep/blob/5ff1c14881e7f394559963fea402723b649a4832/Google%20Cloud%20DevOps%20Engineer%20Exam%20prep%20sheet.pdf)** (IAM roles, Terraform, Kubernetes commands)  
+- **Quick Review** of **cheat sheets** (IAM roles, Terraform, Kubernetes commands)  
 - Go through **SRE principles one last time**  
 - Memorize **key CLI commands** for troubleshooting  
 - Skim through **official Google DevOps documentation**  
@@ -131,21 +137,11 @@
 - **Terraform CLI & HCL Syntax**  
 - **GKE Network Policies & Load Balancers**  
 
-### 📖 Resources  
+### 📖 Official Google Cloud Documentation  
 - [Google Cloud CLI Cheat Sheet](https://cloud.google.com/sdk/gcloud/reference)  
 - [Terraform Commands](https://developer.hashicorp.com/terraform/cli)  
 
 ---
 
-## 🎯 Exam Day Strategy (Feb 16th, Sunday)  
-✅ **Sleep well** – Avoid last-minute cramming.  
-✅ **Eat light but nutritious food** – Stay energized.  
-✅ **Read questions carefully** – Google’s wording can be tricky.  
-✅ **Eliminate wrong answers** – Reduce choices to **2 options**.  
-✅ **Mark for review** – If unsure, flag and return later.  
-✅ **Manage time wisely** – Don’t spend too much time on one question.  
-
----
-
 🚀 **Follow this structured plan, and you'll be fully prepared to pass your Google Cloud DevOps Engineer exam with confidence!**  
-You've got this! 💪🔥 
+You've got this! 💪🔥 Let me know if you need extra help with any specific topics.  
