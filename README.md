@@ -19,7 +19,7 @@
 ✅ Explore **Cloud Workstations** and configure a secure dev environment  
 
 ### 📖 Official Google Cloud Documentation  
-- [Google IAM Best Practices](https://cloud.google.com/iam/docs/best-practices)  
+- [Google IAM Best Practices](https://cloud.google.com/iam/docs/using-iam-securely)  
 - [Google Cloud Resource Hierarchy](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy)  
 - [Terraform on Google Cloud](https://cloud.google.com/docs/terraform)  
 - [Managing Multi-Environment Deployments](https://cloud.google.com/blog/topics/developers-practitioners/managing-multiple-environments-google-cloud)  
